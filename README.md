@@ -1,46 +1,46 @@
 # 🚗⚡ **Electric Vehicle Population Analysis**
 
 Electric Vehicles (EVs) are becoming the core of modern sustainable transportation.
-This project analyzes EV population data to reveal trends in adoption, model performance, electric range, CAFV eligibility, and regional distribution.
-Using **SQL, Python, and Power BI**, the project converts raw EV data into clear insights and interactive dashboards that support informed decision-making.
+This project analyzes EV population data to uncover trends in adoption, model performance, electric range, CAFV eligibility, and regional distribution.
+Using **SQL, Python, and Power BI**, the project transforms raw EV data into clear insights and interactive dashboards for informed decision-making.
 
 ---
 
 ## ❗ **Problem Statement**
 
-Stakeholders often lack clarity on which EV models perform best, how electric range varies, and which regions show strong or weak EV adoption.
-This makes it difficult for businesses, governments, and sustainability teams to plan infrastructure, create policies, or understand market behavior.
-This project simplifies the data and highlights meaningful patterns to solve that gap.
+Stakeholders often lack clarity on which EV models perform best, how electric range varies, and which regions adopt EVs more rapidly.
+This gap makes it difficult for businesses, policymakers, and sustainability teams to plan infrastructure, shape policies, and understand market behavior.
+This project organizes and simplifies the data to highlight meaningful patterns and support smarter EV-related decisions.
 
 ---
 
-## 📊**EV Analytics Dashboard**
+# 📊 **EV Analytics Dashboard**
 
-### EV Population Overview
+### **EV Population Overview**
 
-<img width="1114" height="629" alt="Ev Population Overview" src="https://github.com/user-attachments/assets/f95fce04-e25b-4fde-9b41-996d711c6343" />
+<img width="1114" height="629" alt="Ev Population Overview" src="https://github.com/user-attachments/assets/35a4e447-40c0-435e-b240-1f60d2e242e1" />
 
-### EV Trends & Performance Insights
+### **EV Trends & Performance Insights**
 
-<img width="1118" height="628" alt="EV Treands" src="https://github.com/user-attachments/assets/fce2a789-bba9-4512-88b9-143771654269" />
+<img width="1118" height="628" alt="EV Treands" src="https://github.com/user-attachments/assets/668c49cf-976f-4e53-acf6-a06ed5eadee4" />
 
-### EV Policy Impact & Clean Energy Eligibility
+### **EV Policy Impact & Clean Energy Eligibility**
 
-<img width="1117" height="628" alt="Policy impact" src="https://github.com/user-attachments/assets/df62521f-8250-4838-909c-8857fccaa8b6" />
+<img width="1117" height="628" alt="Policy impact" src="https://github.com/user-attachments/assets/6b002f2a-2b4e-46e5-a55c-7e2c31932607" />
 
 ---
 
 ## 🛠️ **Tools & Technologies**
 
-| Tool / Technology            | Purpose                                                               |
-| ---------------------------- | --------------------------------------------------------------------- |
-| **SQL (MySQL)**              | Data cleaning, filtering, renaming columns, preparing structured data |
-| **Python (Pandas, NumPy)**   | Exploratory data analysis, preprocessing, feature engineering         |
-| **Matplotlib & Seaborn**     | Visualizing trends, range comparisons, and model distribution         |
-| **SQLAlchemy**               | Connecting SQL database with Python                                   |
-| **Jupyter Notebook**         | Running EDA and analysis workflow                                     |
-| **Power BI (DAX + Desktop)** | Creating interactive dashboards, maps, KPIs, and visual storytelling  |
-| **GitHub**                   | Version control, documentation, project hosting                       |
+| Tool / Technology            | Purpose                                                         |
+| ---------------------------- | --------------------------------------------------------------- |
+| **SQL (MySQL)**              | Data cleaning, filtering, preprocessing, column renaming        |
+| **Python (Pandas, NumPy)**   | Exploratory data analysis, transformations, feature preparation |
+| **Matplotlib & Seaborn**     | Visualizing model distribution, trends, range comparisons       |
+| **SQLAlchemy**               | Integrating SQL data with Python for analysis                   |
+| **Jupyter Notebook**         | Running EDA workflows and documenting insights                  |
+| **Power BI (DAX + Desktop)** | Creating dashboards, KPIs, maps, and visual storytelling        |
+| **GitHub**                   | Version control, project documentation, hosting                 |
 
 ---
 
@@ -48,53 +48,51 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 ### 🚙 **1. Market Leaders**
 
-* Models like **Nissan Leaf**, **Tesla Model 3**, and **Tesla Model S** dominate registrations.
-* These brands show strong user trust and consistent performance.
+* Models like **Nissan Leaf**, **Tesla Model 3**, and **Tesla Model S** dominate EV registrations.
+* These models show high consumer trust and strong performance history.
 
 ### 🔋 **2. BEVs vs PHEVs**
 
 * **BEVs deliver significantly higher electric range** than PHEVs.
-* BEVs are more aligned with clean-energy policies and consumer demand.
+* BEVs align more closely with clean-energy goals and CAFV standards.
 
 ### 🧾 **3. CAFV Eligibility**
 
-* Majority of EVs qualify for **CAFV incentives**, linked to better range and performance.
-* Vehicles with low electric range show lower eligibility.
+* A large portion of vehicles qualify for **CAFV incentives**, directly linked to higher electric range.
+* Lower-range models show reduced eligibility.
 
 ### 🗺️ **4. Regional EV Adoption**
 
-* Urban and developed regions show higher EV adoption due to better charging infrastructure.
-* Rural zones have comparatively slower adoption.
+* Urban and developed regions have strong EV penetration due to better charging infrastructure.
+* Rural areas show slower adoption.
 
 ### 📈 **5. Growth Trend**
 
-* Strong rise in EV registrations between **2016–2020** followed by slight fluctuations afterward.
+* EV registrations increased steadily between **2016–2020**, followed by slight fluctuations in later years.
 
 ---
 
 ## 🧠 **Conclusion**
 
-This project turns raw EV data into clear, actionable insights.
-It helps:
+This project converts complex EV data into clear insights that help multiple stakeholders:
 
 ### 💡 **For Policymakers**
 
-* Plan charging stations where adoption is growing
-* Understand which regions need infrastructure support
+* Identify regions needing more charging infrastructure
+* Understand which areas have high EV adoption potential
 
 ### 🚙 **For Automakers**
 
-* Identify top-performing EV models
-* Study consumer adoption patterns and range expectations
+* Analyze top-performing EV models
+* Understand user preferences based on range and model year
 
 ### 🌱 **For Sustainability Teams**
 
-* Track clean-energy progress
+* Measure clean-energy progress
 * Understand CAFV eligibility patterns
 
-### 📊 **For Analysts**
+### 📊 For Data & Business Teams
 
-* Learn how SQL, Python, and Power BI combine in a real analytics workflow
-
-The project strengthens data-driven understanding of EV adoption and supports smarter future decisions.
+* Gain a clear view of EV trends, performance gaps, and adoption behavior
+* Use insights to support strategic planning, investments, and policy alignment
 
