@@ -20,20 +20,13 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 <img width="1114" height="629" alt="Ev Population Overview" src="https://github.com/user-attachments/assets/f95fce04-e25b-4fde-9b41-996d711c6343" />
 
-
-
-
 ### EV Trends & Performance Insights
 
-```
-![Top Models](images/top_ev_models.png)
-```
+<img width="1118" height="628" alt="EV Treands" src="https://github.com/user-attachments/assets/fce2a789-bba9-4512-88b9-143771654269" />
 
 ### EV Policy Impact & Clean Energy Eligibility
 
-```
-![Electric Range](images/electric_range_chart.png)
-```
+<img width="1117" height="628" alt="Policy impact" src="https://github.com/user-attachments/assets/df62521f-8250-4838-909c-8857fccaa8b6" />
 
 ---
 
