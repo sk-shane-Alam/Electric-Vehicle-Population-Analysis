@@ -105,11 +105,3 @@ These insights support:
 * Automotive product strategy
 * Sustainability progress tracking
 
----
-
-If you want, I can also:
-🔥 Make a **GitHub banner**
-🔥 Add a **quick summary section at the top**
-🔥 Design a **project logo-style header**
-
-Just tell me!
