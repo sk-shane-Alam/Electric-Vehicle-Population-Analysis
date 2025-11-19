@@ -84,7 +84,6 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 * Strong rise in EV registrations between **2016–2020** followed by slight fluctuations afterward.
 
----
 
 ## 🧠 **Conclusion / Benefits**
 
