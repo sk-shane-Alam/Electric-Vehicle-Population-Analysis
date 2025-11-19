@@ -1,78 +1,115 @@
-# Electric-Vehicle-Population-Analysis
+# 🚗⚡ **Electric Vehicle Population Analysis**
 
-A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and policy alignment. This project covers everything from data cleaning and exploration to visualization and presentation, using SQL, Python, and Power BI.
+*A data-driven analysis of EV adoption, performance, and market trends.*
 
-You can check out the complete article I have written on this Project: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
+---
 
-----
+## 📝 **Project Introduction**
 
-## Tools & Technologies
+Electric Vehicles (EVs) are rapidly transforming global transportation. This project analyzes an **Electric Vehicle Population Dataset** to uncover patterns in **EV adoption, model performance, charging behavior, CAFV eligibility, and regional distribution**.
 
-- **SQL (MySQL):** Data cleaning, filtering, type conversion, preprocessing  
-- **Python (Jupyter Notebook):** Pandas, SQLAlchemy, NumPy, Matplotlib, Seaborn
-- **Pandas Profiling / YData EDA:** Automated EDA for in-depth data profiling
-- **Power BI:** Interactive, multi-page report design and visual analysis
-- **Canva:** Presentation Design
+Using **SQL, Python, and Power BI**, the project delivers actionable insights for policymakers, automotive companies, and sustainability initiatives.
 
-----
+---
 
-## Key Analysis Areas
+## 🎯 **Objectives**
 
-- EV population distribution by make, model, and year  
-- Performance comparison of BEVs vs. PHEVs (electric range)  
-- CAFV eligibility insights and policy impact  
-- Geographic trends in EV adoption (county-level analysis)  
-- Top-performing models and manufacturers  
-- Business recommendations based on real data patterns
+* Understand EV adoption trends by **Make, Model, Type, and Model Year**.
+* Compare **BEVs vs PHEVs** based on electric range and performance.
+* Analyze **CAFV Eligibility** and its correlation with EV specifications.
+* Study **geographical EV distribution** across regions/counties.
+* Build a **Power BI Dashboard** for intuitive and interactive insights.
+* Provide **business and policy recommendations** based on data evidence.
 
-----
+---
 
-## 📁 Project Structure
+## 🛠️ **Tools & Technologies (and why they were used)**
 
-📦 Electric-Vehicle-Population-Analysis
-- SQL_Scripts
-    - Electric Vehicle Population Analysis.sql
-- Jupyter_Notebook
-    - Electric Vehicle Population Analysis.ipynb
-    - EV_EDA_Report.html
-    - Electric Vehicle Population Analysis.py
-- PowerBI_Report
-    - Electric Vehicle Population Analysis.pbix
-    - Electric Vehicle Population Analysis (Static Report).pdf
-- Presentation
-    - EVA_Presentation.pdf
-- Dataset
-    - Electric_Vehicle_Population_Data.csv
-- README.md
+| Tool / Tech                            | Purpose                                                                                               |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **SQL (MySQL)**                        | Data cleaning, filtering, renaming, generating summaries, and preparing structured data for analysis. |
+| **Python (Pandas, NumPy, SQLAlchemy)** | EDA, feature engineering, handling missing values, and data transformation.                           |
+| **Matplotlib & Seaborn**               | Visual analysis of trends, ranges, and model distributions.                                           |
+| **Jupyter Notebook**                   | Experimentation environment for EDA and insights generation.                                          |
+| **Power BI (DAX + Dashboarding)**      | Final storytelling, visuals, KPIs, maps, and report layout.                                           |
+| **GitHub**                             | Version control, documentation, and project sharing.                                                  |
 
-----
+---
 
-## Where can you get the Dataset from?
+## 🖼️ **Screenshots**
 
-Navigate to the Dataset and click on the download button.
-- GitHub Dataset: [Electric_Vehicle_Population_Data.csv](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis/blob/main/Electric_Vehicle_Population_Data.csv)
+> Add your actual dashboard images in the `images/` folder and replace the samples below.
 
-Or you visit my Kaggle page to access the dataset.
-- Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis/data?select=Electric_Vehicle_Population_Data.csv)
+### 📊 **Power BI Dashboard – Overview**
 
-----
+```
+![Dashboard](images/dashboard_overview.png)
+```
 
-## Final Output
+### 🔋 **Electric Range Comparison**
 
-- ✅ Cleaned dataset - Pandas and SQL (from 247,344 → 97,690 → 70,277 EV records)
-- ✅ Multi-page Power BI report with key visuals
-- ✅ Structured project presentation with insights and recommendations
+```
+![Range](images/electric_range_chart.png)
+```
 
-----
+### 🗺️ **EV Distribution Map**
 
-## Contact
+```
+![Map](images/ev_map.png)
+```
 
-Feel free to connect if you'd like to discuss this project or have any feedback!
+### 🚙 **Top EV Models**
 
-- GitHub: [@nibeditans](https://github.com/nibeditans)
-- LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
+```
+![Models](images/top_ev_models.png)
+```
 
-----
+---
 
-## License
-This project is licensed under the [Apache License 2.0](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+## 🔍 **Key Insights**
+
+### 🔋 **1. BEVs vs PHEVs**
+
+* BEVs have **significantly higher electric range** than PHEVs.
+* Nearly all BEVs qualify for **CAFV eligibility**, showing stronger alignment with clean-energy standards.
+
+### 🚙 **2. Market Leaders**
+
+* Models like **Nissan Leaf**, **Tesla Model 3**, and **Tesla Model S** dominate EV registrations.
+
+### 📈 **3. EV Growth Over Time**
+
+* Strong growth trend from **2016–2020**, showing rising global demand.
+* Slight decline post-2020 could indicate market adjustments or reporting delays.
+
+### 🗺️ **4. EV Distribution by Region**
+
+* EV adoption is higher in **urban and developed zones** due to better charging infrastructure.
+* Rural regions show lower penetration.
+
+### 🧾 **5. CAFV Eligibility**
+
+* Majority of EVs are CAFV eligible.
+* Eligibility strongly correlates with **electric range, EV type, and specific models**.
+
+---
+
+## 🧠 **Conclusion**
+
+This project demonstrates how **data analytics** can uncover critical insights into EV adoption and performance. The trends highlight the rise of BEVs, the influence of electric range on eligibility, and the uneven adoption across regions.
+
+These insights support:
+
+* Better EV infrastructure planning
+* Incentive & policy decision-making
+* Automotive product strategy
+* Sustainability progress tracking
+
+---
+
+If you want, I can also:
+🔥 Make a **GitHub banner**
+🔥 Add a **quick summary section at the top**
+🔥 Design a **project logo-style header**
+
+Just tell me!
