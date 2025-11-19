@@ -18,10 +18,10 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 ### EV Population Overview
 
-```
-<img width="1114" height="629" alt="Ev Population Overview" src="https://github.com/user-attachments/assets/835a98c7-eabc-4cc0-8a4a-05ddcdacef3d" />
+<img width="1114" height="629" alt="Ev Population Overview" src="https://github.com/user-attachments/assets/f95fce04-e25b-4fde-9b41-996d711c6343" />
 
-```
+
+
 
 ### EV Trends & Performance Insights
 
