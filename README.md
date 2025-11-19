@@ -6,7 +6,7 @@ Using **SQL, Python, and Power BI**, the project converts raw EV data into clear
 
 ---
 
-##❗ **Problem Statement**
+## ❗ **Problem Statement**
 
 Stakeholders often lack clarity on which EV models perform best, how electric range varies, and which regions show strong or weak EV adoption.
 This makes it difficult for businesses, governments, and sustainability teams to plan infrastructure, create policies, or understand market behavior.
@@ -14,7 +14,7 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 ---
 
-##📊 **EV Analytics Dashboard**
+## 📊**EV Analytics Dashboard**
 
 ### EV Population Overview
 
