@@ -19,7 +19,8 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 ### EV Population Overview
 
 ```
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/<img width="1114" height="629" alt="Ev Population Overview" src="https://github.com/user-attachments/assets/7580584d-94b2-4a5a-be5e-44da886ddd50" />
+.png)
 ```
 
 ### EV Trends & Performance Insights
