@@ -14,7 +14,7 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 ---
 
-# 📊 **EV Analytics Dashboard**
+## 📊 **EV Analytics Dashboard**
 
 ### EV Population Overview
 
