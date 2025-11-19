@@ -14,30 +14,24 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 ---
 
-# 🖼️ **Project Screenshots (Preview First)**
+# 📊 **EV Analytics Dashboard**
 
-### 📊 Dashboard Overview
+### EV Population Overview
 
 ```
 ![Dashboard Overview](images/dashboard_overview.png)
 ```
 
-### 🚙 Top EV Models
+### EV Trends & Performance Insights
 
 ```
 ![Top Models](images/top_ev_models.png)
 ```
 
-### 🔋 Electric Range Comparison
+### EV Policy Impact & Clean Energy Eligibility
 
 ```
 ![Electric Range](images/electric_range_chart.png)
-```
-
-### 🗺️ EV Distribution Map
-
-```
-![EV Map](images/ev_map.png)
 ```
 
 ---
