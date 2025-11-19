@@ -16,8 +16,6 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 # 🖼️ **Project Screenshots (Preview First)**
 
-> Replace the image paths with your actual screenshots.
-
 ### 📊 Dashboard Overview
 
 ```
@@ -86,7 +84,7 @@ This project simplifies the data and highlights meaningful patterns to solve tha
 
 ---
 
-## 🧠 **Conclusion / Benefits**
+## 🧠 **Conclusion**
 
 This project turns raw EV data into clear, actionable insights.
 It helps:
